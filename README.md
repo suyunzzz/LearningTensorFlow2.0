@@ -8,7 +8,11 @@ Win10+TensorFlow2.0-gpu+Anaconda
 
 # reference
 https://github.com/wu-huipeng/Deep-Learning
+
 https://blog.csdn.net/weixin_44678052/article/details/102286945
+
 https://github.com/Hironsan/BossSensor
+
 https://blog.csdn.net/qq_42633819/article/details/81191308
+
 https://blog.csdn.net/qq_41495871/article/details/102886182
