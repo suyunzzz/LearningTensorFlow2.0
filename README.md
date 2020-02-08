@@ -29,5 +29,5 @@ face_data_train.py训练模型
 face_data_apply.py模型测试
 
 # Result
-![image](https://github.com/suyunzzz/LearningTensorFlow2.0/tree/master/images/result.png)
+![image](https://github.com/suyunzzz/LearningTensorFlow2.0/raw/master/images/result.png)
 
