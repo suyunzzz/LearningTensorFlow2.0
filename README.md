@@ -17,7 +17,7 @@ https://blog.csdn.net/qq_42633819/article/details/81191308
 
 https://blog.csdn.net/qq_41495871/article/details/102886182
 
-#Run
+# Run
 face_test.py为OpenCV摄像头人脸检测测试文件
 
 face_data_catch.py获取人脸数据
